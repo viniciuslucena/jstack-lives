@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Vinícius Lucena",
+      "username": "viniciuslucena",
+      "blocked": false
+    },
+    {
+      "id": "2",
+      "name": "Mateus Silva",
+      "username": "maateusilva",
+      "blocked": false
+    }
+  ]
+}
